@@ -16,3 +16,4 @@ An automation Python script to brew coffee in the morning using Moes Fingerbot a
 2) ACCESS_ID and ACCESS_KEY will appear in the Tuya cloud project overview
 3) USERNAME and PASSWORD are the same used to sign in Smart Industry App
 4) FINGERBOT_DEVICE_ID can be found under Devices tab in Tuya cloud project
+5) Navigate to the directory using Command Line and run _python3 MorgenBrew.py_
