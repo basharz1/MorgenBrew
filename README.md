@@ -1,4 +1,4 @@
-# MorgenBrew
+# MorgenBrew ☕
 An automation Python script to brew coffee in the morning using Moes Fingerbot and tuya IoT Platform.
 
 # Setup
