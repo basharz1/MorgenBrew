@@ -9,6 +9,7 @@ An automation Python script to brew coffee in the morning using Moes Fingerbot a
 5) Create user and asset for the project
 6) Login to Smart Industry App using your user and password from user and asset
 7) Follow the prompt to connect your Bluetooth Hub and Fingerbot
+8) Setup the Fingerbot accordingly to press the Brew Button
 
 # Using the script
 1) In the env file type the following: 
